@@ -8,6 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/akhileshGarg80/DSA-javascript/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/akhileshGarg80/DSA-javascript/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/akhileshGarg80/DSA-javascript/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akhileshGarg80/DSA-javascript/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/akhileshGarg80/DSA-javascript/tree/master/0015-3sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,4 +57,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akhileshGarg80/DSA-javascript/tree/master/0005-longest-palindromic-substring) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/akhileshGarg80/DSA-javascript/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
